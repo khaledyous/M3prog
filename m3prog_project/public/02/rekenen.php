@@ -2,7 +2,7 @@
 
 $getal = 5.11223;
 $afgerond1 = round($getal);
-echo "Als je ${getal} afrond dan krijg je: ${afgerond1} <br>";
+echo "Als je $getal afrond dan krijg je: $afgerond1 <br>";
 
 $getal1 = rand();
 $getal2 = rand();
