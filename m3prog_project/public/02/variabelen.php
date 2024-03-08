@@ -13,11 +13,11 @@
     $naw = "test1";
     //$22 =	; ( 22 is getal)
     //$$auto	=; ( 2x $$)
-    $kleurVanAuto= "<blauw";	
+    $kleurVanAuto = "blauw";	
     //$software-dev = ; ( -dev kan niet )
 
     echo"$auto2";
     echo"$_naam";
     echo"$naw";
-    echo"$kleurVanAuto"
+    echo"$kleurVanAuto";
 ?>
